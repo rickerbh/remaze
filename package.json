@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@rescript/core": "*",
+    "@rescript/react": "^0.11.0",
     "rescript": "*"
   }
 }

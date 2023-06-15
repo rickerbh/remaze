@@ -10,5 +10,6 @@
   },
   "suffix": ".bs.js",
   "bsc-flags": ["-open RescriptCore"],
-  "bs-dependencies": ["@rescript/core"]
+  "bs-dependencies": ["@rescript/core", "@rescript/react"],
+  "jsx": { "version": 4, "mode": "classic" }
 }
